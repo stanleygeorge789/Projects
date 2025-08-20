@@ -1,4 +1,4 @@
 # Projects
 SQL, PowerBI, Python
 </br>
-Author - Stanley George
+Author - Stanley George (Senior Business Analyst)
